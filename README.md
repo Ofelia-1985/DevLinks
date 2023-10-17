@@ -25,7 +25,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
 - Git e Github
 - Figma
@@ -34,7 +35,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-##  Licença
+## 🔗 Para testar accesar ao link
+https://ofelia-1985.github.io/DevLinks/
+
+## 🔓 Licença
 
 Esse projeto está sob a licença MIT.
 
